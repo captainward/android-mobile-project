@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mobile project</string>
+
+    <string name="name">St. Elmo Steakhouse</string>
+    <string name="since">Since 1902</string>
+    <string name="welcome">WELCOME</string>
+    <string name="address">127 S. Illinois St.</string>
+    <string name="indy">Indianapolis, IN 46225</string>
+    <string name="contactinfo">317-635-0636 | stelmos.com</string>
+    <string name="contentdescription">St. Elmo Steakhouse in Indianapolis, IN. Since 1902. Featured on Food Network's 'The Best Thing I Ever Ate' and Travel Channel's 'Steak Paradise.'</string>
+</resources>
